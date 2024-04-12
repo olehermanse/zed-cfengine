@@ -8,4 +8,4 @@ repository = "https://github.com/olehermanse/zed-cfengine"
 
 [grammars.cfengine]
 repository = "https://github.com/olehermanse/tree-sitter-cfengine"
-commit = "69a9f17a399b04056d85382c5ed4e4983122bd63"
+commit = "5d57c8f8d50026482364f44c968d8c16d871f3cb"
