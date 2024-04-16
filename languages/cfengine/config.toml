@@ -3,6 +3,6 @@ grammar = "cfengine"
 path_suffixes = ["cf"]
 line_comments = ["#"]
 brackets = [
-    { start = "(", end = ")", close = true, newline = false },
-    { start = "BEGIN", end = "END", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = true },
+    { start = "{", end = "}", close = true, newline = true },
 ]
