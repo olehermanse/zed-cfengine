@@ -1,6 +1,6 @@
 name = "CFEngine"
 grammar = "cfengine"
-path_suffixes = ["cf"]
+path_suffixes = ["cf", "cfengine", "cf3", "cfengine3", "cf.sub"]
 line_comments = ["#"]
 brackets = [
     { start = "(", end = ")", close = true, newline = true },
